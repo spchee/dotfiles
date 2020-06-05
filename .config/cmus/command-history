@@ -1,0 +1,11 @@
+shuffle
+shuffle off
+set status_display_program=cmusfm
+init cmusfm
+search
+colorscheme
+skins
+skin
+p
+pause
+add ~/Music

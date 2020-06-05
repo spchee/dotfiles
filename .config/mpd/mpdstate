@@ -1,0 +1,1100 @@
+sw_volume: 76
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 600
+time: 4.075000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Technical Death Metal/Atheist/Piece of Time/01 - Piece of Time.flac
+1:Technical Death Metal/Atheist/Piece of Time/02 - Unholy War.flac
+2:Technical Death Metal/Atheist/Piece of Time/03 - Room With a View.flac
+3:Technical Death Metal/Atheist/Piece of Time/04 - On They Slay.flac
+4:Technical Death Metal/Atheist/Piece of Time/05 - Beyond.flac
+5:Technical Death Metal/Atheist/Piece of Time/06 - I Deny.flac
+6:Technical Death Metal/Atheist/Piece of Time/07 - Why Bother .flac
+7:Technical Death Metal/Atheist/Piece of Time/08 - Life.flac
+8:Technical Death Metal/Atheist/Unquestionable Presence/02 - Unquestionable Presence.flac
+9:Technical Death Metal/Atheist/Unquestionable Presence/03 - Your Life's Retribution.flac
+10:Technical Death Metal/Atheist/Unquestionable Presence/04 - Enthralled in Essence.flac
+11:Technical Death Metal/Atheist/Unquestionable Presence/05 - An Incarnation's Dream.flac
+12:Technical Death Metal/Atheist/Unquestionable Presence/06 - The Formative Years.flac
+13:Technical Death Metal/Atheist/Unquestionable Presence/07 - Brains.flac
+14:Technical Death Metal/Atheist/Unquestionable Presence/08 - And the Psychic Saw.flac
+15:Sludge Metal/Acid Bath/When The Kite String Pops/01 - The Blue.flac
+16:Sludge Metal/Acid Bath/When The Kite String Pops/02 - Tranquilized.flac
+17:Sludge Metal/Acid Bath/When The Kite String Pops/03 - Cheap Vodka.flac
+18:Sludge Metal/Acid Bath/When The Kite String Pops/04 - Finger Paintings Of The Insane.flac
+19:Sludge Metal/Acid Bath/When The Kite String Pops/05 - Jezebel.flac
+20:Sludge Metal/Acid Bath/When The Kite String Pops/06 - Scream Of The Butterfly.flac
+21:Sludge Metal/Acid Bath/When The Kite String Pops/07 - Dr. Seuss Is Dead.flac
+22:Sludge Metal/Acid Bath/When The Kite String Pops/08 - Dope Fiend.flac
+23:Sludge Metal/Acid Bath/When The Kite String Pops/09 - Toubabo Koomi.flac
+24:Sludge Metal/Acid Bath/When The Kite String Pops/10 - God Machine.flac
+25:Sludge Metal/Acid Bath/When The Kite String Pops/11 - The Morticians Flame.flac
+26:Sludge Metal/Acid Bath/When The Kite String Pops/12 - What Color Is Death.flac
+27:Sludge Metal/Acid Bath/When The Kite String Pops/13 - The Bones Of Baby Dolls.flac
+28:Sludge Metal/Acid Bath/When The Kite String Pops/14 - Cassie Eats Cockroaches.flac
+29:Heavy Metal/Venom/Welcome To Hell/01 - Sons Of Satan.flac
+30:Heavy Metal/Venom/Welcome To Hell/02 - Welcome To Hell.flac
+31:Heavy Metal/Venom/Welcome To Hell/03 - Schizo.flac
+32:Heavy Metal/Venom/Welcome To Hell/04 - Mayhem With Mercy.flac
+33:Heavy Metal/Venom/Welcome To Hell/05 - Poison.flac
+34:Heavy Metal/Venom/Welcome To Hell/06 - Live Like An Angel.flac
+35:Heavy Metal/Venom/Welcome To Hell/07 - Witching Hour.flac
+36:Heavy Metal/Venom/Welcome To Hell/08 - One Thousand Days To Sodom.flac
+37:Heavy Metal/Venom/Welcome To Hell/09 - Angel Dust.flac
+38:Heavy Metal/Venom/Welcome To Hell/10 - In League With Satan.flac
+39:Heavy Metal/Venom/Welcome To Hell/11 - Red Light Fever.flac
+40:Heavy Metal/Venom/Black Metal/1-01 - Black Metal.flac
+41:Heavy Metal/Venom/Black Metal/1-02 - To Hell and Back.flac
+42:Heavy Metal/Venom/Black Metal/1-03 - Buried Alive.flac
+43:Heavy Metal/Venom/Black Metal/1-04 - Raise the Dead.flac
+44:Heavy Metal/Venom/Black Metal/1-05 - Teacher's Pet.flac
+45:Heavy Metal/Venom/Black Metal/1-06 - Leave Me in Hell.flac
+46:Heavy Metal/Venom/Black Metal/1-07 - Sacrifice.flac
+47:Heavy Metal/Venom/Black Metal/1-08 - Heaven's On Fire.flac
+48:Heavy Metal/Venom/Black Metal/1-09 - Countess Bathory.flac
+49:Heavy Metal/Venom/Black Metal/1-10 - Don't Burn the Witch.flac
+50:Heavy Metal/Venom/Black Metal/1-11 - At War With Satan (Preview).flac
+51:Black Metal/Bathory/Blood Fire Death/1-01 - Odens Ride Over Nordland.flac
+52:Black Metal/Bathory/Blood Fire Death/1-02 - A Fine Day To Die.flac
+53:Black Metal/Bathory/Blood Fire Death/1-03 - The Golden Walls Of Heaven.flac
+54:Black Metal/Bathory/Blood Fire Death/1-04 - Pace Til Death.flac
+55:Black Metal/Bathory/Blood Fire Death/1-05 - Holocaust.flac
+56:Black Metal/Bathory/Blood Fire Death/1-06 - For All Those Who Died.flac
+57:Black Metal/Bathory/Blood Fire Death/1-07 - Dies Irae.flac
+58:Black Metal/Bathory/Blood Fire Death/1-08 - Blood Fire Death.flac
+59:Black Metal/Bathory/Blood Fire Death/1-09 - Outro.flac
+60:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/01 - Kathaarian Life Code.flac
+61:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/02 - In the Shadow of the Horns.flac
+62:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/03 - Paragon Belial.flac
+63:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/04 - Where Cold Winds Blow.flac
+64:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/05 - A Blaze in the Northern Sky.flac
+65:Unsorted/complete/Darkthrone - A Blaze In The Northern Sky/06 - The Pagan Winter.flac
+66:Black Metal/Dissection/The Somberlain/01 - Black Horizons.flac
+67:Black Metal/Dissection/The Somberlain/02 - The Somberlain.flac
+68:Black Metal/Dissection/The Somberlain/03 - Crimson Towers.flac
+69:Black Metal/Dissection/The Somberlain/04 - A Land Forlorn.flac
+70:Black Metal/Dissection/The Somberlain/05 - Heaven's Damnation.flac
+71:Black Metal/Dissection/The Somberlain/06 - Frozen.flac
+72:Black Metal/Dissection/The Somberlain/07 - Into Infinite Obscurity.flac
+73:Black Metal/Dissection/The Somberlain/08 - In the Cold Winds of Nowhere.flac
+74:Black Metal/Dissection/The Somberlain/09 - The Grief Prophecy   Shadows Over a Lost Kingdom.flac
+75:Black Metal/Dissection/The Somberlain/10 - Mistress of the Bleeding Sorrow.flac
+76:Black Metal/Dissection/The Somberlain/11 - Feathers Fell.flac
+77:Black Metal/Mayhem/De Mysteriis Dom Sathanas/01 - Funeral Fog.flac
+78:Black Metal/Mayhem/De Mysteriis Dom Sathanas/02 - Freezing Moon.flac
+79:Black Metal/Mayhem/De Mysteriis Dom Sathanas/03 - Cursed in Eternity.flac
+80:Black Metal/Mayhem/De Mysteriis Dom Sathanas/04 - Pagan Fears.flac
+81:Black Metal/Mayhem/De Mysteriis Dom Sathanas/05 - Life Eternal.flac
+82:Black Metal/Mayhem/De Mysteriis Dom Sathanas/06 - From the Dark Past.flac
+83:Black Metal/Mayhem/De Mysteriis Dom Sathanas/07 - Buried by Time and Dust.flac
+84:Black Metal/Mayhem/De Mysteriis Dom Sathanas/08 - De Mysteriis Dom Sathanas.flac
+85:Black Metal/Burzum/Hvis Lyset Tar Oss/01 - Det Som En Gang Var.flac
+86:Black Metal/Burzum/Hvis Lyset Tar Oss/02 - Hvis Lyset Tar Oss.flac
+87:Black Metal/Burzum/Hvis Lyset Tar Oss/03 - Inn in Slottet Fra Drømmen.flac
+88:Black Metal/Burzum/Hvis Lyset Tar Oss/04 - Tomhet.flac
+89:Black Metal/Emperor/In the Nightside Eclipse (First Press)/01 - Into The Infinity Of Thoughts.flac
+90:Black Metal/Emperor/In the Nightside Eclipse (First Press)/02 - The Burning Shadows Of Silence.flac
+91:Black Metal/Emperor/In the Nightside Eclipse (First Press)/03 - Cosmic Keys To My Creations & Times.flac
+92:Black Metal/Emperor/In the Nightside Eclipse (First Press)/04 - Beyond The Great Vast Forest.flac
+93:Black Metal/Emperor/In the Nightside Eclipse (First Press)/05 - Towards the Pantheon.flac
+94:Black Metal/Emperor/In the Nightside Eclipse (First Press)/06 - The Majesty Of The Nightsky.flac
+95:Black Metal/Emperor/In the Nightside Eclipse (First Press)/07 - I Am The Black Wizards.flac
+96:Black Metal/Emperor/In the Nightside Eclipse (First Press)/08 - Inno A Satana.flac
+97:Black Metal/Dissection/Storm Of The Light's Bane/01 - At The Fathomless Depths.flac
+98:Black Metal/Dissection/Storm Of The Light's Bane/02 - Night's Blood.flac
+99:Black Metal/Dissection/Storm Of The Light's Bane/03 - Unhallowed.flac
+100:Black Metal/Dissection/Storm Of The Light's Bane/04 - Where Dead Angels Lie.flac
+101:Black Metal/Dissection/Storm Of The Light's Bane/05 - Retribution   Storm Of The Light's Bane.flac
+102:Black Metal/Dissection/Storm Of The Light's Bane/06 - Thorns Of Crimson Death.flac
+103:Black Metal/Dissection/Storm Of The Light's Bane/07 - Soulreaper.flac
+104:Black Metal/Dissection/Storm Of The Light's Bane/08 - No Dreams Breed In Breathless Sleep.flac
+105:Black Metal/Sacramentum/Far Away From The Sun/01 - Fog's Kiss.flac
+106:Black Metal/Sacramentum/Far Away From The Sun/02 - Far Away From The Sun.flac
+107:Black Metal/Sacramentum/Far Away From The Sun/03 - Blood Shall Be Spilled.flac
+108:Black Metal/Sacramentum/Far Away From The Sun/04 - When Night Surrounds Me.flac
+109:Black Metal/Sacramentum/Far Away From The Sun/05 - Cries From A Restless Soul.flac
+110:Black Metal/Sacramentum/Far Away From The Sun/06 - Obsolete Tears.flac
+111:Black Metal/Sacramentum/Far Away From The Sun/07 - Beyond All Horizons.flac
+112:Black Metal/Sacramentum/Far Away From The Sun/08 - The Vision And The Voice.flac
+113:Black Metal/Sacramentum/Far Away From The Sun/09 - Outro - Darkness Falls For Me   Far Away From The Sun (Part Two).flac
+114:Black Metal/Burzum/Filosofem/01 - Dunkelheit.flac
+115:Black Metal/Burzum/Filosofem/02 - Jesus' Tod.flac
+116:Black Metal/Burzum/Filosofem/03 - Erblicket Die Töchter Des Firmaments.flac
+117:Black Metal/Burzum/Filosofem/04 - Gebrechlichkeit I.flac
+118:Black Metal/Burzum/Filosofem/05 - Rundgang Um Die Transzendentale Säule Der Singularität.flac
+119:Black Metal/Burzum/Filosofem/06 - Gebrechlichkeit II.flac
+120:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/01. Our Dawn Of Glory.flac
+121:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/02. I'm An Other In The Night.flac
+122:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/03. So Far Beyond... (The Great Vastforest).flac
+123:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/04. A Castle So Crystal Clear.flac
+124:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/05. As I Behold The Dying Sun.flac
+125:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/06. Vinterskogen.flac
+126:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/07. Still The Night Is Awake.flac
+127:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/08. A Vinter Breeze.flac
+128:Unsorted/complete/STG44/vinterland - welcome my last chapter (wings of sorrow) (1996)/09. Wings Of Sorrow.flac
+129:Death Metal/Angelcorpse/The Inexorable/01 - Stormgods Unbound.flac
+130:Death Metal/Angelcorpse/The Inexorable/02 - Smoldering In Exile.flac
+131:Death Metal/Angelcorpse/The Inexorable/03 - Reaver.flac
+132:Death Metal/Angelcorpse/The Inexorable/05 - As Predator To Prey.flac
+133:Death Metal/Angelcorpse/The Inexorable/06 - Solar Wills.flac
+134:Death Metal/Angelcorpse/The Inexorable/07 - Begotten (Through Blood & Flame).flac
+135:Death Metal/Angelcorpse/The Inexorable/08 - The Fall Of The Idols Of Flesh.flac
+136:Death Metal/Angelcorpse/The Inexorable/09 - When Abyss Winds Return.flac
+137:Death Metal/Angelcorpse/The Inexorable/10 - Desecration Of A Virgin.flac
+138:Death Metal/Angelcorpse/The Inexorable/04 - Wolflust.flac
+139:Unsorted/complete/Xasthur - Telepathic with the Deceased/01 - Entrance Into Nothingness.flac
+140:Unsorted/complete/Xasthur - Telepathic with the Deceased/02 - Slaughtered Useless Beings In A Nihilistic Dream.flac
+141:Unsorted/complete/Xasthur - Telepathic with the Deceased/03 - Abysmal Depths Are Flooded.flac
+142:Unsorted/complete/Xasthur - Telepathic with the Deceased/04 - May Your Void Become As Deep As My Hate.flac
+143:Unsorted/complete/Xasthur - Telepathic with the Deceased/05 - Telepathic With The Deceased.flac
+144:Unsorted/complete/Xasthur - Telepathic with the Deceased/06 - A Walk Beyond Utter Blackness.flac
+145:Unsorted/complete/Xasthur - Telepathic with the Deceased/07 - Cursed Revelations.flac
+146:Unsorted/complete/Xasthur - Telepathic with the Deceased/08 - Drown Into Eternal Twilight.flac
+147:Unsorted/complete/Xasthur - Telepathic with the Deceased/09 - Murdered Echoes of The Mind.flac
+148:Unsorted/complete/Xasthur - Telepathic with the Deceased/10 - Exit.flac
+149:Black Metal/Keep of Kalessin/Armada/1-01 - Surface.flac
+150:Black Metal/Keep of Kalessin/Armada/1-02 - Crown of the Kings.flac
+151:Black Metal/Keep of Kalessin/Armada/1-03 - The Black Uncharted.flac
+152:Black Metal/Keep of Kalessin/Armada/1-04 - Vengeance Rising.flac
+153:Black Metal/Keep of Kalessin/Armada/1-05 - Many Are We.flac
+154:Black Metal/Keep of Kalessin/Armada/1-06 - Winged Watcher.flac
+155:Black Metal/Keep of Kalessin/Armada/1-07 - Into the Fire.flac
+156:Black Metal/Keep of Kalessin/Armada/1-08 - Deluge.flac
+157:Black Metal/Keep of Kalessin/Armada/1-09 - The Wealth of Darkness.flac
+158:Black Metal/Keep of Kalessin/Armada/1-10 - Armada.flac
+159:Death Metal/Dead Congregation/Graves of the Archangels/01 - Martyrdoom.flac
+160:Death Metal/Dead Congregation/Graves of the Archangels/02 - Hostis Humani Generis.flac
+161:Death Metal/Dead Congregation/Graves of the Archangels/03 - Morbid Paroxysm.flac
+162:Death Metal/Dead Congregation/Graves of the Archangels/04 - Vanishing Faith.flac
+163:Death Metal/Dead Congregation/Graves of the Archangels/05 - Voices.flac
+164:Death Metal/Dead Congregation/Graves of the Archangels/06 - Graves of the Archangels.flac
+165:Death Metal/Dead Congregation/Graves of the Archangels/07 - Subjugation.flac
+166:Death Metal/Dead Congregation/Graves of the Archangels/08 - Source of Fire.flac
+167:Death Metal/Dead Congregation/Graves of the Archangels/09 - Teeth into Red.flac
+168:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/01 - Mgła - With Hearts Toward None I.flac
+169:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/02 - Mgła - With Hearts Toward None II.flac
+170:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/03 - Mgła - With Hearts Toward None III.flac
+171:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/04 - Mgła - With Hearts Toward None IV.flac
+172:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/05 - Mgła - With Hearts Toward None V.flac
+173:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/06 - Mgła - With Hearts Toward None VI.flac
+174:Unsorted/complete/Mgla - 2012 - With Hearts Toward None/07 - Mgła - With Hearts Toward None VII.flac
+175:Unsorted/complete/Plaga - Magia Gwiezdnej Entropii/01. Intro - Left Hand Prayers.mp3
+176:Unsorted/complete/Plaga - Magia Gwiezdnej Entropii/02. Trąby Zagłady cz. II.mp3
+177:Unsorted/complete/Plaga - Magia Gwiezdnej Entropii/03. Śmierć Cieplna Wszechświata.mp3
+178:Unsorted/complete/Plaga - Magia Gwiezdnej Entropii/04. Slaying The Spiritless Abel.mp3
+179:Unsorted/complete/Plaga - Magia Gwiezdnej Entropii/05. Magia Gwiezdnej Entropii.mp3
+180:Unsorted/complete/[2013] Sunbather/01 Deafheaven - Dream House.flac
+181:Unsorted/complete/[2013] Sunbather/02 Deafheaven - Irresistible.flac
+182:Unsorted/complete/[2013] Sunbather/03 Deafheaven - Sunbather.flac
+183:Unsorted/complete/[2013] Sunbather/04 Deafheaven - Please Remember.flac
+184:Unsorted/complete/[2013] Sunbather/05 Deafheaven - Vertigo.flac
+185:Unsorted/complete/[2013] Sunbather/06 Deafheaven - Windows.flac
+186:Unsorted/complete/[2013] Sunbather/07 Deafheaven - The Pecan Tree.flac
+187:Unsorted/complete/Exercises in Futility/01 Exercises in Futility  I.flac
+188:Unsorted/complete/Exercises in Futility/02 Exercises in Futility  II.flac
+189:Unsorted/complete/Exercises in Futility/03 Exercises in Futility  III.flac
+190:Unsorted/complete/Exercises in Futility/04 Exercises in Futility  IV.flac
+191:Unsorted/complete/Exercises in Futility/05 Exercises in Futility  V.flac
+192:Unsorted/complete/Exercises in Futility/06 Exercises in Futility  VI.flac
+193:Death Metal/Venenum/Trance of Death/01 - Entrance.flac
+194:Death Metal/Venenum/Trance of Death/02 - Merging Nebular Drapes.flac
+195:Death Metal/Venenum/Trance of Death/03 - The Nature of the Ground.flac
+196:Death Metal/Venenum/Trance of Death/04 - Cold Threat.flac
+197:Death Metal/Venenum/Trance of Death/05 - Trance of Death  I. Reflections.flac
+198:Death Metal/Venenum/Trance of Death/06 - Trance of Death  II. Metanoia Journey.flac
+199:Death Metal/Venenum/Trance of Death/07 - Trance of Death  III. There Are Other Worlds....flac
+200:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 01 Age of Excuse I.flac
+201:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 02 Age of Excuse II.flac
+202:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 03 Age of Excuse III.flac
+203:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 04 Age of Excuse IV.flac
+204:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 05 Age of Excuse V.flac
+205:Unsorted/complete/ahistoricist/2019 - Age Of Excuse/Mgła - Age of Excuse - 06 Age of Excuse VI.flac
+206:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/01 - Intro (Napoleon's Sword).flac
+207:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/02 - Life Escaping Through the Candle's Smoke.flac
+208:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/03 - Forever Faithful to the Emperor.flac
+209:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/04 - Catacombs Beneath the Castle of the Marquis.flac
+210:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/05 - Departure Chandelier.flac
+211:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/06 - A Sacrifice to the Corsica Antichrist.flac
+212:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/07 - Re-Establish the Black Rule of France.flac
+213:Black Metal/Departure Chandelier - Antichrist Rise to Power (2019)/08 - Outro (Exile on the Jagged Cliffs of Saint Helena).flac
+214:Unsorted/complete/Mirror in Darkness/01 Promise of the Polis.flac
+215:Unsorted/complete/Mirror in Darkness/02 Ausweg.flac
+216:Unsorted/complete/Mirror in Darkness/03 Seinsvergessenheit.flac
+217:Unsorted/complete/Mirror in Darkness/04 Apophenia.flac
+218:Unsorted/complete/Mirror in Darkness/05 Amphiclasm.flac
+219:Unsorted/complete/Mirror in Darkness/06 Detainment.flac
+220:Unsorted/complete/Mirror in Darkness/07 Mirror in Darkness.flac
+221:Unsorted/complete/Mirror in Darkness/08 Lotophagia.flac
+222:Unsorted/complete/Mirror in Darkness/09 Warlords of the World to Come.flac
+223:Unsorted/complete/Mirror in Darkness/10 Mεταγενέσιν.flac
+224:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/01 Cathedrals of Mourning.flac
+225:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/02 The Faustian Alchemist.flac
+226:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/03 Blackened Call.flac
+227:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/04 Acheron.flac
+228:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/05 Nam Gloria Lucifer.flac
+229:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/06 The Crowned Daughters.flac
+230:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/07 Dark Mother.flac
+231:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/08 The Werewolf Bride.flac
+232:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/09 Pantheon of the Nightside Gods.flac
+233:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/10 Nuns in the Purgatory.flac
+234:Unsorted/complete/2019 - Pantheon Of The Nightside Gods/11 Maleficarum - The Veil of the Moon Queen Pt. I.flac
+235:Black Metal/Dissection/The Somberlain/01 - Black Horizons.flac
+236:Black Metal/Dissection/The Somberlain/02 - The Somberlain.flac
+237:Black Metal/Dissection/The Somberlain/03 - Crimson Towers.flac
+238:Black Metal/Dissection/The Somberlain/04 - A Land Forlorn.flac
+239:Black Metal/Dissection/The Somberlain/05 - Heaven's Damnation.flac
+240:Black Metal/Dissection/The Somberlain/06 - Frozen.flac
+241:Black Metal/Dissection/The Somberlain/07 - Into Infinite Obscurity.flac
+242:Black Metal/Dissection/The Somberlain/08 - In the Cold Winds of Nowhere.flac
+243:Black Metal/Dissection/The Somberlain/09 - The Grief Prophecy   Shadows Over a Lost Kingdom.flac
+244:Black Metal/Dissection/The Somberlain/10 - Mistress of the Bleeding Sorrow.flac
+245:Black Metal/Dissection/The Somberlain/11 - Feathers Fell.flac
+246:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/1. Pink Floyd - Astronomy Domine.flac
+247:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/2. Pink Floyd - Lucifer Sam.flac
+248:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/3. Pink Floyd - Matilda Mother.flac
+249:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/4. Pink Floyd - Flaming.flac
+250:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/5. Pink Floyd - Pow R. Toc H..flac
+251:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/6. Pink Floyd - Take Up Thy Stethoscope And Walk.flac
+252:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/7. Pink Floyd - Interstellar Overdrive.flac
+253:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/8. Pink Floyd - The Gnome.flac
+254:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/9. Pink Floyd - Chapter 24.flac
+255:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/10. Pink Floyd - Scarecrow.flac
+256:Unsorted/complete/0089. Pink Floyd - The Piper At The Gates Of Dawn (1967)/11. Pink Floyd - Bike.flac
+257:Progressive Rock/King Crimson/In the Court of the Crimson King/01 - 21st Century Schizoid Man.flac
+258:Progressive Rock/King Crimson/In the Court of the Crimson King/02 - I Talk to the Wind.flac
+259:Progressive Rock/King Crimson/In the Court of the Crimson King/03 - Epitaph.flac
+260:Progressive Rock/King Crimson/In the Court of the Crimson King/04 - Moonchild.flac
+261:Progressive Rock/King Crimson/In the Court of the Crimson King/05 - The Court of the Crimson King.flac
+262:Progressive Rock/Gentle Giant/Acquiring the Taste/01 - Pantagruel's Nativity.flac
+263:Progressive Rock/Gentle Giant/Acquiring the Taste/02 - Edge of Twilight.flac
+264:Progressive Rock/Gentle Giant/Acquiring the Taste/03 - The House, The Street, The Room.flac
+265:Progressive Rock/Gentle Giant/Acquiring the Taste/04 - Acquiring the Taste.flac
+266:Progressive Rock/Gentle Giant/Acquiring the Taste/05 - Wreck.flac
+267:Progressive Rock/Gentle Giant/Acquiring the Taste/06 - The Moon Is Down.flac
+268:Progressive Rock/Gentle Giant/Acquiring the Taste/07 - Black Cat.flac
+269:Progressive Rock/Gentle Giant/Acquiring the Taste/08 - Plain Truth.flac
+270:Progressive Rock/Yes/Fragile/01 - Roundabout.flac
+271:Progressive Rock/Yes/Fragile/02 - Cans and Brahms.flac
+272:Progressive Rock/Yes/Fragile/03 - We have heaven.flac
+273:Progressive Rock/Yes/Fragile/04 - South Side of the Sky.flac
+274:Progressive Rock/Yes/Fragile/05 - Five percent for nothing.flac
+275:Progressive Rock/Yes/Fragile/06 - Long distance runaround.flac
+276:Progressive Rock/Yes/Fragile/07 - The fish (Schindleria Praematurus).flac
+277:Progressive Rock/Yes/Fragile/08 - Mood for a day.flac
+278:Progressive Rock/Yes/Fragile/09 - Heart of the Sunrise.flac
+279:Progressive Rock/Yes/Fragile/10 - America.flac
+280:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/01 - Hocus Pocus.flac
+281:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/02 - Le Clochard.flac
+282:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/03 - Janis.flac
+283:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/04 - Moving Waves.flac
+284:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/06 - Eruption.flac
+285:Progressive Rock/Aphrodite's Child/666/01 - The System.flac
+286:Progressive Rock/Aphrodite's Child/666/02 - Babylon.flac
+287:Progressive Rock/Aphrodite's Child/666/03 - Loud, Loud, Loud.flac
+288:Progressive Rock/Aphrodite's Child/666/04 - The Four Horsemen.flac
+289:Progressive Rock/Aphrodite's Child/666/05 - The Lamb.flac
+290:Progressive Rock/Aphrodite's Child/666/06 - The Seventh Seal.flac
+291:Progressive Rock/Aphrodite's Child/666/07 - Aegian Sea.flac
+292:Progressive Rock/Aphrodite's Child/666/08 - Seven Bowls.flac
+293:Progressive Rock/Aphrodite's Child/666/09 - The Wakening Beast.flac
+294:Progressive Rock/Aphrodite's Child/666/10 - Lament.flac
+295:Progressive Rock/Aphrodite's Child/666/11 - The Marching Beast.flac
+296:Progressive Rock/Aphrodite's Child/666/12 - The Battle of the Locusts.flac
+297:Progressive Rock/Aphrodite's Child/666/13 - Do It.flac
+298:Progressive Rock/Aphrodite's Child/666/14 - Tribulation.flac
+299:Progressive Rock/Aphrodite's Child/666/15 - The Beast.flac
+300:Progressive Rock/Aphrodite's Child/666/16 - Ofis.flac
+301:Progressive Rock/Aphrodite's Child/666/17 - Seven Trumpets.flac
+302:Progressive Rock/Aphrodite's Child/666/18 - Altamont.flac
+303:Progressive Rock/Aphrodite's Child/666/19 - The Wedding of the Lamb.flac
+304:Progressive Rock/Aphrodite's Child/666/20 - The Capture of the Beast.flac
+305:Progressive Rock/Aphrodite's Child/666/21 - Infinity.flac
+306:Progressive Rock/Aphrodite's Child/666/22 - Hic and Nunc.flac
+307:Progressive Rock/Aphrodite's Child/666/23 - All the Seats Were Occupied.flac
+308:Progressive Rock/Aphrodite's Child/666/24 - Break.flac
+309:Progressive Rock/Yes/Close To The Edge/01 - Close To The Edge.flac
+310:Progressive Rock/Yes/Close To The Edge/02 - And You And I I. Cord Of Life II. Eclipse III. The Preacher The Teacher IV. Apocalypse.flac
+311:Progressive Rock/Yes/Close To The Edge/03 - Siberian Khatru.flac
+312:Unsorted/complete/Focus - 1972 - Focus III/01 - Round Goes The Gosisip.flac
+313:Unsorted/complete/Focus - 1972 - Focus III/02 - Love Remembered.flac
+314:Unsorted/complete/Focus - 1972 - Focus III/03 - Sylvia.flac
+315:Unsorted/complete/Focus - 1972 - Focus III/04 - Carnival Fugue.flac
+316:Unsorted/complete/Focus - 1972 - Focus III/05 - Focus III.flac
+317:Unsorted/complete/Focus - 1972 - Focus III/06 - Answers_ Questions! Questions_ Answers!.flac
+318:Unsorted/complete/Focus - 1972 - Focus III/07 - Elspeth Of Nottingham.flac
+319:Unsorted/complete/Focus - 1972 - Focus III/08 - Anonymus Two.flac
+320:Progressive Rock/Camel/Camel/01 - Slow Yourself Down.flac
+321:Progressive Rock/Camel/Camel/02 - Mystic Queen.flac
+322:Progressive Rock/Camel/Camel/03 - Six Ate.flac
+323:Progressive Rock/Camel/Camel/04 - Separation.flac
+324:Progressive Rock/Camel/Camel/05 - Never Let Go.flac
+325:Progressive Rock/Camel/Camel/06 - Curiosity.flac
+326:Progressive Rock/Camel/Camel/07 - Arubaluba.flac
+327:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/01 - Speak To Me.flac
+328:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/02 - Breathe (In The Air).flac
+329:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/03 - On The Run.flac
+330:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/04 - Time.flac
+331:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/05 - The Great Gig In The Sky.flac
+332:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/06 - Money.flac
+333:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/07 - Us & Them.flac
+334:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/08 - Any Colour You Like.flac
+335:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/09 - Brain Damage.flac
+336:Progressive Rock/Pink Floyd/The Dark Side Of The Moon/10 - Eclipse.flac
+337:Progressive Rock/Gentle Giant/In a Glass House/01 - The Runaway.flac
+338:Progressive Rock/Gentle Giant/In a Glass House/02 - An Inmates Lullaby.flac
+339:Progressive Rock/Gentle Giant/In a Glass House/03 - Way Of Life.flac
+340:Progressive Rock/Gentle Giant/In a Glass House/04 - Experience.flac
+341:Progressive Rock/Gentle Giant/In a Glass House/05 - A Reunion.flac
+342:Progressive Rock/Gentle Giant/In a Glass House/06 - In A Glass House.flac
+343:Progressive Rock/Gentle Giant/Octopus/01 - The Advent of Panurge.flac
+344:Progressive Rock/Gentle Giant/Octopus/02 - Raconteur Troubadour.flac
+345:Progressive Rock/Gentle Giant/Octopus/03 - A Cry for Everyone.flac
+346:Progressive Rock/Gentle Giant/Octopus/04 - Knots.flac
+347:Progressive Rock/Gentle Giant/Octopus/05 - The Boys in the Band.flac
+348:Progressive Rock/Gentle Giant/Octopus/06 - Dog's Life.flac
+349:Progressive Rock/Gentle Giant/Octopus/07 - Think of Me with Kindness.flac
+350:Progressive Rock/Gentle Giant/Octopus/08 - River.flac
+351:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/01 Dancing With The Moonlight Knight.flac
+352:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/02 I Know What I Like (In Your Wardrobe).flac
+353:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/03 Firth Of Fifth.flac
+354:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/04 More Fool Me.flac
+355:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/05 The Battle Of Epping Forest.flac
+356:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/06 After The Ordeal.flac
+357:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/07 The Cinema Show.flac
+358:Unsorted/complete/1973 - Selling England By The Pound [1986, Virgin - CASCD 1074,UK,CD]/08 Aisle Of Plenty.flac
+359:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/01 - Delite Musicae.flac
+360:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/02 - Harem Scarem.flac
+361:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/03 - La Cathedrale De Strasbourg.flac
+362:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/04 - Birth.flac
+363:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/05 - Hamburger Concerto.flac
+364:Unsorted/complete/Focus - 1974 - Hamburger Concerto {CD, 1988, CDM 7 48860 2} [FLAC]/06 - Early Birth.flac
+365:Progressive Rock/Camel/Mirage/1-01 - Freefall.flac
+366:Progressive Rock/Camel/Mirage/1-02 - Supertwister.flac
+367:Progressive Rock/Camel/Mirage/1-03 - Nimrodel The Procession The White Rider.flac
+368:Progressive Rock/Camel/Mirage/1-04 - Earthrise.flac
+369:Progressive Rock/Camel/Mirage/1-05 - Lady Fantasy  Encounter   Smiles For You   Lady Fantasy.flac
+370:Rock/Queen/A Night At The Opera/01 - Death On Two Legs - Dedicated To.flac
+371:Rock/Queen/A Night At The Opera/02 - Lazing On A Sunday Afternoon.flac
+372:Rock/Queen/A Night At The Opera/03 - I'm In Love With My Car.flac
+373:Rock/Queen/A Night At The Opera/04 - You're My Best Friend.flac
+374:Rock/Queen/A Night At The Opera/05 - '39.flac
+375:Rock/Queen/A Night At The Opera/06 - Sweet Lady.flac
+376:Rock/Queen/A Night At The Opera/07 - Seaside Rendevous.flac
+377:Rock/Queen/A Night At The Opera/08 - The Prophets' Song.flac
+378:Rock/Queen/A Night At The Opera/09 - Love Of My Life.flac
+379:Rock/Queen/A Night At The Opera/10 - Good Company.flac
+380:Rock/Queen/A Night At The Opera/11 - Bohemian Rhapsody.flac
+381:Rock/Queen/A Night At The Opera/12 - God Save The Queen.flac
+382:Unsorted/complete/Van Der Graaf Generator - 1975 - Godbluff (FLAC 24-48, vinyl, 80s reissue, Charisma CHC 13)/01 The Undercover Man.flac
+383:Unsorted/complete/Van Der Graaf Generator - 1975 - Godbluff (FLAC 24-48, vinyl, 80s reissue, Charisma CHC 13)/02 Scorched Earth.flac
+384:Unsorted/complete/Van Der Graaf Generator - 1975 - Godbluff (FLAC 24-48, vinyl, 80s reissue, Charisma CHC 13)/03 Arrow.flac
+385:Unsorted/complete/Van Der Graaf Generator - 1975 - Godbluff (FLAC 24-48, vinyl, 80s reissue, Charisma CHC 13)/04 The Sleepwalkers.flac
+386:Progressive Rock/Pink Floyd/Wish You Were Here/01 - Shine On You Crazy Diamond (Parts 1-5).flac
+387:Progressive Rock/Pink Floyd/Wish You Were Here/02 - Welcome To The Machine.flac
+388:Progressive Rock/Pink Floyd/Wish You Were Here/03 - Have A Cigar.flac
+389:Progressive Rock/Pink Floyd/Wish You Were Here/04 - Wish You Were Here.flac
+390:Progressive Rock/Pink Floyd/Wish You Were Here/05 - Shine On You Crazy Diamond (Parts 6-9).flac
+391:Progressive Rock/Rush/2112/01 - 2112 (Overture; The Temples Of Syrinx; Discovery; Presentation; Oracle  The Dream; Soliloquy; Grand Finale).flac
+392:Progressive Rock/Rush/2112/02 - A Passage to Bangkok.flac
+393:Progressive Rock/Rush/2112/03 - The Twilight Zone.flac
+394:Progressive Rock/Rush/2112/04 - Lessons.flac
+395:Progressive Rock/Rush/2112/05 - Tears.flac
+396:Progressive Rock/Rush/2112/06 - Something for Nothing.flac
+397:Progressive Rock/Camel/Moonmadness/01 - Aristillus.flac
+398:Progressive Rock/Camel/Moonmadness/02 - Song Within a Song.flac
+399:Progressive Rock/Camel/Moonmadness/03 - Chord Change.flac
+400:Progressive Rock/Camel/Moonmadness/04 - Spirit of the Water.flac
+401:Progressive Rock/Camel/Moonmadness/05 - Another Night.flac
+402:Progressive Rock/Camel/Moonmadness/06 - Air Born.flac
+403:Progressive Rock/Camel/Moonmadness/07 - Lunar Sea.flac
+404:Heavy Metal/Rainbow/Rising/01 - Tarot Woman.flac
+405:Heavy Metal/Rainbow/Rising/02 - Run With The Wolf.flac
+406:Heavy Metal/Rainbow/Rising/03 - Starstruck.flac
+407:Heavy Metal/Rainbow/Rising/04 - Do You Close Your Eyes.flac
+408:Heavy Metal/Rainbow/Rising/05 - Stargazer.flac
+409:Heavy Metal/Rainbow/Rising/06 - A Light In The Black.flac
+410:Progressive Rock/Rush/A Farewell To Kings/01 - A Farewell To Kings.flac
+411:Progressive Rock/Rush/A Farewell To Kings/02 - Xanadu.flac
+412:Progressive Rock/Rush/A Farewell To Kings/03 - Closer To The Heart.flac
+413:Progressive Rock/Rush/A Farewell To Kings/04 - Cinderella Man.flac
+414:Progressive Rock/Rush/A Farewell To Kings/05 - Madrigal.flac
+415:Progressive Rock/Rush/A Farewell To Kings/06 - Cygnus X-1 Book I  The Voyage.flac
+416:Unsorted/complete/Pink Floyd - 1977 - Animals [FLAC]/01 Pigs on the Wing, Part 1.flac
+417:Unsorted/complete/Pink Floyd - 1977 - Animals [FLAC]/02 Dogs.flac
+418:Unsorted/complete/Pink Floyd - 1977 - Animals [FLAC]/03 Pigs (Three Different Ones).flac
+419:Unsorted/complete/Pink Floyd - 1977 - Animals [FLAC]/04 Sheep.flac
+420:Unsorted/complete/Pink Floyd - 1977 - Animals [FLAC]/05 Pigs on the Wing, Part 2.flac
+421:Progressive Rock/Rush/Hemispheres/01 - Hemispheres (Cygnus X-1 Book II).flac
+422:Progressive Rock/Rush/Hemispheres/02 - Circumstances.flac
+423:Progressive Rock/Rush/Hemispheres/03 - The Trees.flac
+424:Progressive Rock/Rush/Hemispheres/04 - La Villa Strangiato.flac
+425:Unsorted/complete/002 - Rush - Permanent Waves (1980)/01 - The Spirit Of The Radio.flac
+426:Progressive Rock/Rush/Permanent Waves/02 - Freewill.flac
+427:Progressive Rock/Rush/Permanent Waves/03 - Jacob's Ladder.flac
+428:Progressive Rock/Rush/Permanent Waves/04 - Entre Nous.flac
+429:Progressive Rock/Rush/Permanent Waves/05 - Different Strings.flac
+430:Progressive Rock/Rush/Permanent Waves/06 - Natural Science.flac
+431:Progressive Rock/Rush/Moving Pictures/01 - Tom Sawyer.flac
+432:Progressive Rock/Rush/Moving Pictures/02 - Red Barchetta.flac
+433:Progressive Rock/Rush/Moving Pictures/03 - YYZ.flac
+434:Progressive Rock/Rush/Moving Pictures/04 - Limelight.flac
+435:Progressive Rock/Rush/Moving Pictures/05 - The Camera Eye.flac
+436:Progressive Rock/Rush/Moving Pictures/06 - Witch Hunt (Part III Of Fear).flac
+437:Progressive Rock/Rush/Moving Pictures/07 - Vital Signs.flac
+438:Progressive Metal/Queensrÿche/Operation  Mindcrime/01 - I Remember Now.flac
+439:Progressive Metal/Queensrÿche/Operation  Mindcrime/02 - Anarchy-X.flac
+440:Progressive Metal/Queensrÿche/Operation  Mindcrime/03 - Revolution Calling.flac
+441:Progressive Metal/Queensrÿche/Operation  Mindcrime/04 - Operation  Mindcrime.flac
+442:Progressive Metal/Queensrÿche/Operation  Mindcrime/05 - Speak.flac
+443:Progressive Metal/Queensrÿche/Operation  Mindcrime/06 - Spreading the Disease.flac
+444:Progressive Metal/Queensrÿche/Operation  Mindcrime/07 - The Mission.flac
+445:Progressive Metal/Queensrÿche/Operation  Mindcrime/08 - Suite Sister Mary.flac
+446:Progressive Metal/Queensrÿche/Operation  Mindcrime/09 - The Needle Lies.flac
+447:Progressive Metal/Queensrÿche/Operation  Mindcrime/10 - Electric Requiem.flac
+448:Progressive Metal/Queensrÿche/Operation  Mindcrime/11 - Breaking the Silence.flac
+449:Progressive Metal/Queensrÿche/Operation  Mindcrime/12 - I Don't Believe in Love.flac
+450:Progressive Metal/Queensrÿche/Operation  Mindcrime/13 - Waiting for 22.flac
+451:Progressive Metal/Queensrÿche/Operation  Mindcrime/14 - My Empty Room.flac
+452:Progressive Metal/Queensrÿche/Operation  Mindcrime/15 - Eyes of a Stranger.flac
+453:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/01 - The Sky Moves Sideways (Phase One).flac
+454:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/02 - Dislocated Day.flac
+455:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/03 - The Moon Touches Your Shoulder.flac
+456:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/04 - Prepare Yourself.flac
+457:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/05 - Moonloop.flac
+458:Unsorted/complete/1995 - The Sky Moves Sideways (UK edition) (Delerium Records DELEC CD 028 UK)/06 - The Sky Moves Sideways (Phase Two).flac
+459:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/01 - Even Less.flac
+460:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/02 - Piano Lessons.flac
+461:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/03 - Stupid Dream.flac
+462:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/04 - Pure Narcotic.flac
+463:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/05 - Slave Called Shiver.flac
+464:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/06 - Don't Hate Me.flac
+465:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/07 - This Is No Rehearsal.flac
+466:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/08 - Baby Dream In Cellophane.flac
+467:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/09 - Stranger By The Minute.flac
+468:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/10 - A Smart Kid.flac
+469:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/11 - Tinto Brass.flac
+470:Unsorted/complete/1999 - Stupid Dream (KScope SMACD813 UK)/12 - Stop Swimming.flac
+471:Progressive Rock/Opeth/Damnation/01 - Windowpane.flac
+472:Progressive Rock/Opeth/Damnation/02 - In My Time Of Need.flac
+473:Progressive Rock/Opeth/Damnation/03 - Death Whispered A Lullaby.flac
+474:Progressive Rock/Opeth/Damnation/04 - Closure.flac
+475:Progressive Rock/Opeth/Damnation/05 - Hope Leaves.flac
+476:Progressive Rock/Opeth/Damnation/06 - To Rid The Disease.flac
+477:Progressive Rock/Opeth/Damnation/07 - Ending Credits.flac
+478:Progressive Rock/Opeth/Damnation/08 - Weakness.flac
+479:Progressive Rock/Porcupine Tree/Deadwing/01 - Deadwing.flac
+480:Progressive Rock/Porcupine Tree/Deadwing/02 - Shallow.flac
+481:Progressive Rock/Porcupine Tree/Deadwing/03 - Lazarus.flac
+482:Progressive Rock/Porcupine Tree/Deadwing/04 - Halo.flac
+483:Progressive Rock/Porcupine Tree/Deadwing/05 - Arriving Somewhere But Not Here.flac
+484:Progressive Rock/Porcupine Tree/Deadwing/06 - Mellotron Scratch.flac
+485:Progressive Rock/Porcupine Tree/Deadwing/07 - Open Car.flac
+486:Progressive Rock/Porcupine Tree/Deadwing/08 - Start Of Something Beautiful.flac
+487:Progressive Rock/Porcupine Tree/Deadwing/09 - Glass Arm Shattering.flac
+488:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/01 - Fear Of A Blank Planet.flac
+489:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/02 - My Ashes.flac
+490:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/03 - Anesthetize.flac
+491:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/04 - Sentimental.flac
+492:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/05 - Way Out Of Here.flac
+493:Progressive Rock/Porcupine Tree/Fear Of A Blank Planet/06 - Sleep Together.flac
+494:Progressive Metal/Haken/Aquarius/01 - The Point of No Return.flac
+495:Progressive Metal/Haken/Aquarius/02 - Streams.flac
+496:Progressive Metal/Haken/Aquarius/03 - Aquarium.flac
+497:Progressive Metal/Haken/Aquarius/04 - Eternal Rain.flac
+498:Progressive Metal/Haken/Aquarius/05 - Drowning in the Flood.flac
+499:Progressive Metal/Haken/Aquarius/06 - Sun.flac
+500:Progressive Metal/Haken/Aquarius/07 - Celestial Elixir.flac
+501:Progressive Metal/Haken/Visions/01 - Premonition.flac
+502:Progressive Metal/Haken/Visions/02 - Nocturnal Conspiracy.flac
+503:Progressive Metal/Haken/Visions/03 - Insomnia.flac
+504:Progressive Metal/Haken/Visions/04 - The Mind's Eye.flac
+505:Progressive Metal/Haken/Visions/05 - Portals.flac
+506:Progressive Metal/Haken/Visions/06 - Shapeshifter.flac
+507:Progressive Metal/Haken/Visions/07 - Deathless.flac
+508:Progressive Metal/Haken/Visions/08 - Visions.flac
+509:Progressive Metal/Haken/The Mountain/02 - Atlas Stone.flac
+510:Progressive Metal/Haken/The Mountain/03 - The Cockroach King.flac
+511:Progressive Metal/Haken/The Mountain/04 - In Memoriam.flac
+512:Progressive Metal/Haken/The Mountain/05 - Because It's There.flac
+513:Progressive Metal/Haken/The Mountain/06 - Falling Back To Earth.flac
+514:Progressive Metal/Haken/The Mountain/07 - As Death Embraces.flac
+515:Progressive Metal/Haken/The Mountain/08 - Paraidolia.flac
+516:Progressive Metal/Haken/The Mountain/09 - Sombody.flac
+517:Unsorted/complete/Disc 1/01 - Luminol.flac
+518:Unsorted/complete/Disc 1/02 - Drive Home.flac
+519:Unsorted/complete/Disc 1/03 - The Holy Drinker.flac
+520:Unsorted/complete/Disc 1/04 - The Pin Drop.flac
+521:Unsorted/complete/Disc 1/05 - The Watchmaker.flac
+522:Unsorted/complete/Disc 1/06 - The Raven That Refused to Sing.flac
+523:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/01 Lightbulb Sun.flac
+524:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/02 How Is Your Life Today .flac
+525:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/03 Four Chords That Made A Million.flac
+526:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/04 She's Moved On.flac
+527:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/05 Last Chance To Evacuate Planet Earth Before It Is Recycled.flac
+528:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/06 The Rest Will Flow.flac
+529:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/07 Hatesong.flac
+530:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/08 Where We Would Be.flac
+531:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/09 Russia On Ice.flac
+532:Unsorted/complete/porcupine tree - lightbulb sun (flac) - 2007/10 Feel So Low.flac
+533:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/01 - First Regret.flac
+534:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/02 - 3 Years Older.flac
+535:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/03 - Hand Cannot Erase.flac
+536:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/04 - Perfect Life.flac
+537:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/05 - Routine.flac
+538:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/06 - Home Invasion.flac
+539:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/07 - Regret #9.flac
+540:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/08 - Transience.flac
+541:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/09 - Ancestral.flac
+542:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/10 - Happy Returns.flac
+543:Progressive Rock/Steven Wilson/Hand. Cannot. Erase/11 - Ascendant Here On....flac
+544:Progressive Metal/Haken/Affinity/01 - Affinity.exe.flac
+545:Progressive Metal/Haken/Affinity/02 - Initiate.flac
+546:Progressive Metal/Haken/Affinity/03 - 1985.flac
+547:Progressive Metal/Haken/Affinity/04 - Lapse.flac
+548:Progressive Metal/Haken/Affinity/05 - The Architect.flac
+549:Progressive Metal/Haken/Affinity/06 - Earthrise.flac
+550:Progressive Metal/Haken/Affinity/07 - Red Giant.flac
+551:Progressive Metal/Haken/Affinity/08 - The Endless Knot.flac
+552:Progressive Metal/Haken/Affinity/09 - Bound By Gravity.flac
+553:Progressive Rock/Porcupine Tree/In Absentia/01 - .3.flac
+554:Progressive Rock/Porcupine Tree/In Absentia/01 - Blackest Eyes.flac
+555:Progressive Rock/Porcupine Tree/In Absentia/02 - The Creator Has a Mastertape.flac
+556:Progressive Rock/Porcupine Tree/In Absentia/02 - Trains.flac
+557:Progressive Rock/Porcupine Tree/In Absentia/03 - Chloroform.flac
+558:Progressive Rock/Porcupine Tree/In Absentia/03 - Lips of Ashes.flac
+559:Progressive Rock/Porcupine Tree/In Absentia/04 - Heartattack in a Layby.flac
+560:Progressive Rock/Porcupine Tree/In Absentia/04 - The Sound of Muzak.flac
+561:Progressive Rock/Porcupine Tree/In Absentia/05 - Gravity Eyelids.flac
+562:Progressive Rock/Porcupine Tree/In Absentia/05 - Strip the Soul.flac
+563:Progressive Rock/Porcupine Tree/In Absentia/06 - Collapse the Light Into Earth.flac
+564:Progressive Rock/Porcupine Tree/In Absentia/06 - Wedding Nails.flac
+565:Progressive Rock/Porcupine Tree/In Absentia/07 - Prodigal.flac
+566:Progressive Metal/Haken/Vector/01 - Clear.flac
+567:Progressive Metal/Haken/Vector/02 - The Good Doctor.flac
+568:Progressive Metal/Haken/Vector/03 - Puzzle Box.flac
+569:Progressive Metal/Haken/Vector/04 - Veil.flac
+570:Progressive Metal/Haken/Vector/05 - Nil by Mouth.flac
+571:Progressive Metal/Haken/Vector/06 - Host.flac
+572:Progressive Metal/Haken/Vector/07 - A Cell Divides.flac
+573:Progressive Rock/King Crimson/In the Court of the Crimson King/01 - 21st Century Schizoid Man.flac
+574:Progressive Rock/King Crimson/In the Court of the Crimson King/02 - I Talk to the Wind.flac
+575:Progressive Rock/King Crimson/In the Court of the Crimson King/03 - Epitaph.flac
+576:Progressive Rock/King Crimson/In the Court of the Crimson King/04 - Moonchild.flac
+577:Progressive Rock/King Crimson/In the Court of the Crimson King/05 - The Court of the Crimson King.flac
+578:Unsorted/complete/Focus - 1971 - Moving Waves (Focus II)/05 - Focus II.flac
+579:Progressive Metal/Haken/The Mountain/02 - Atlas Stone.flac
+580:Progressive Metal/Haken/The Mountain/03 - The Cockroach King.flac
+581:Progressive Metal/Haken/The Mountain/04 - In Memoriam.flac
+582:Progressive Metal/Haken/The Mountain/05 - Because It's There.flac
+583:Progressive Metal/Haken/The Mountain/06 - Falling Back To Earth.flac
+584:Progressive Metal/Haken/The Mountain/07 - As Death Embraces.flac
+585:Progressive Metal/Haken/The Mountain/08 - Paraidolia.flac
+586:Progressive Metal/Haken/The Mountain/09 - Sombody.flac
+587:Progressive Metal/Haken/The Mountain/01 - The Path.flac
+588:Death Metal/Death/Symbolic/01 - Symbolic.flac
+589:Death Metal/Death/Symbolic/02 - Zero Tolerance.flac
+590:Death Metal/Death/Symbolic/03 - Empty Words.flac
+591:Death Metal/Death/Symbolic/04 - Sacred Serenity.flac
+592:Death Metal/Death/Symbolic/05 - 1,000 Eyes.flac
+593:Death Metal/Death/Symbolic/06 - Without Judgement.flac
+594:Death Metal/Death/Symbolic/07 - Crystal Mountain.flac
+595:Death Metal/Death/Symbolic/08 - Misanthrope.flac
+596:Death Metal/Death/Symbolic/09 - Perennial Quest.flac
+597:Death Metal/Death/The Sound Of Perseverance/01 - Scavenger of Human Sorrow.flac
+598:Progressive Metal/Native Construct/Quiet World/01 - Mute.flac
+599:Progressive Metal/Native Construct/Quiet World/02 - The Spark Of The Archon.flac
+600:Progressive Metal/Native Construct/Quiet World/03 - Passage.flac
+601:Progressive Metal/Native Construct/Quiet World/04 - Your Familiar Face.flac
+602:Progressive Metal/Native Construct/Quiet World/05 - Come Hell Or High Water.flac
+603:Progressive Metal/Native Construct/Quiet World/06 - Chromatic Lights.flac
+604:Progressive Metal/Native Construct/Quiet World/07 - Chromatic Aberration.flac
+605:Heavy Metal/Venom/Welcome To Hell/01 - Sons Of Satan.flac
+606:Heavy Metal/Venom/Welcome To Hell/02 - Welcome To Hell.flac
+607:Heavy Metal/Venom/Welcome To Hell/03 - Schizo.flac
+608:Heavy Metal/Venom/Welcome To Hell/04 - Mayhem With Mercy.flac
+609:Heavy Metal/Venom/Welcome To Hell/05 - Poison.flac
+610:Heavy Metal/Venom/Welcome To Hell/06 - Live Like An Angel.flac
+611:Heavy Metal/Venom/Welcome To Hell/07 - Witching Hour.flac
+612:Heavy Metal/Venom/Welcome To Hell/08 - One Thousand Days To Sodom.flac
+613:Heavy Metal/Venom/Welcome To Hell/09 - Angel Dust.flac
+614:Heavy Metal/Venom/Welcome To Hell/10 - In League With Satan.flac
+615:Heavy Metal/Venom/Welcome To Hell/11 - Red Light Fever.flac
+616:Heavy Metal/Venom/Black Metal/1-01 - Black Metal.flac
+617:Heavy Metal/Venom/Black Metal/1-02 - To Hell and Back.flac
+618:Heavy Metal/Venom/Black Metal/1-03 - Buried Alive.flac
+619:Heavy Metal/Venom/Black Metal/1-04 - Raise the Dead.flac
+620:Heavy Metal/Venom/Black Metal/1-05 - Teacher's Pet.flac
+621:Heavy Metal/Venom/Black Metal/1-06 - Leave Me in Hell.flac
+622:Heavy Metal/Venom/Black Metal/1-07 - Sacrifice.flac
+623:Heavy Metal/Venom/Black Metal/1-08 - Heaven's On Fire.flac
+624:Heavy Metal/Venom/Black Metal/1-09 - Countess Bathory.flac
+625:Heavy Metal/Venom/Black Metal/1-10 - Don't Burn the Witch.flac
+626:Heavy Metal/Venom/Black Metal/1-11 - At War With Satan (Preview).flac
+627:Thrash Metal/Metallica/Kill 'Em All/01 - Hit The Lights.flac
+628:Thrash Metal/Metallica/Kill 'Em All/02 - The Four Horsemen.flac
+629:Thrash Metal/Metallica/Kill 'Em All/03 - Motorbreath.flac
+630:Thrash Metal/Metallica/Kill 'Em All/04 - Jump In The Fire.flac
+631:Thrash Metal/Metallica/Kill 'Em All/05 - (Anesthesia) Pulling Teeth.flac
+632:Thrash Metal/Metallica/Kill 'Em All/06 - Whiplash.flac
+633:Thrash Metal/Metallica/Kill 'Em All/07 - Phantom Lord.flac
+634:Thrash Metal/Metallica/Kill 'Em All/08 - No Remorse.flac
+635:Thrash Metal/Metallica/Kill 'Em All/09 - Seek & Destroy.flac
+636:Thrash Metal/Metallica/Kill 'Em All/10 - Metal Militia.flac
+637:Thrash Metal/Metal Church/Metal Church/01 - Beyond the Black.flac
+638:Thrash Metal/Metal Church/Metal Church/02 - Metal Church.flac
+639:Thrash Metal/Metal Church/Metal Church/03 - Merciless Onslaught.flac
+640:Thrash Metal/Metal Church/Metal Church/04 - Gods of Wrath.flac
+641:Thrash Metal/Metal Church/Metal Church/05 - Hitman.flac
+642:Thrash Metal/Metal Church/Metal Church/06 - In the Blood.flac
+643:Thrash Metal/Metal Church/Metal Church/07 - (My Favorite) Nightmare.flac
+644:Thrash Metal/Metal Church/Metal Church/08 - Battalions.flac
+645:Thrash Metal/Metal Church/Metal Church/09 - Highway Star.flac
+646:Thrash Metal/Metallica/Ride The Lightning/01 - Fight Fire With Fire.flac
+647:Thrash Metal/Metallica/Ride The Lightning/02 - Ride The Lightning.flac
+648:Thrash Metal/Metallica/Ride The Lightning/03 - For Whom The Bell Tolls.flac
+649:Thrash Metal/Metallica/Ride The Lightning/04 - Fade To Black.flac
+650:Thrash Metal/Metallica/Ride The Lightning/05 - Trapped Under Ice.flac
+651:Thrash Metal/Metallica/Ride The Lightning/06 - Escape.flac
+652:Thrash Metal/Metallica/Ride The Lightning/07 - Creeping Death.flac
+653:Thrash Metal/Metallica/Ride The Lightning/08 - The Call Of Ktulu.flac
+654:Thrash Metal/Slayer/Hell Awaits/01 - Hell Awaits.flac
+655:Thrash Metal/Slayer/Hell Awaits/02 - Kill Again.flac
+656:Thrash Metal/Slayer/Hell Awaits/03 - At Dawn They Sleep.flac
+657:Thrash Metal/Slayer/Hell Awaits/04 - Praise Of Death.flac
+658:Thrash Metal/Slayer/Hell Awaits/05 - Necrophiliac.flac
+659:Thrash Metal/Slayer/Hell Awaits/06 - Crypts Of Eternity.flac
+660:Thrash Metal/Slayer/Hell Awaits/07 - Hardening Of The Arteries.flac
+661:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/01 - Last Rites   Loved To Deth.flac
+662:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/02 - Killing Is My Business ...And Business Is Good!.flac
+663:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/03 - The Skull Beneath The Skin.flac
+664:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/04 - Rattlehead.flac
+665:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/05 - Chosen Ones.flac
+666:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/06 - Looking Down The Cross.flac
+667:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/07 - Mechanix.flac
+668:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/08 - These Boots (Censored).flac
+669:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/09 - Last Rites   Loved To Deth (1984 Demo).flac
+670:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/10 - Mechanix (1984 Demo).flac
+671:Thrash Metal/Megadeth/Killing Is My Business ...And Business Is Good!/11 - The Skull Beneath The Skin (1984 Demo).flac
+672:Thrash Metal/Exodus/Bonded by Blood/01 - Bonded by Blood.flac
+673:Thrash Metal/Exodus/Bonded by Blood/02 - Exodus.flac
+674:Thrash Metal/Exodus/Bonded by Blood/03 - And Then There Were None.flac
+675:Thrash Metal/Exodus/Bonded by Blood/04 - A Lesson in Violence.flac
+676:Thrash Metal/Exodus/Bonded by Blood/05 - Metal Command.flac
+677:Thrash Metal/Exodus/Bonded by Blood/06 - Piranha.flac
+678:Thrash Metal/Exodus/Bonded by Blood/07 - No Love.flac
+679:Thrash Metal/Exodus/Bonded by Blood/08 - Deliver Us to Evil.flac
+680:Thrash Metal/Exodus/Bonded by Blood/09 - Strike of the Beast.flac
+681:Thrash Metal/Metallica/Master Of Puppets/01 - Battery.flac
+682:Thrash Metal/Metallica/Master Of Puppets/02 - Master of Puppets.flac
+683:Thrash Metal/Metallica/Master Of Puppets/03 - The Thing That Should Not Be.flac
+684:Thrash Metal/Metallica/Master Of Puppets/04 - Welcome Home (Sanitarium).flac
+685:Thrash Metal/Metallica/Master Of Puppets/05 - Disposable Heroes.flac
+686:Thrash Metal/Metallica/Master Of Puppets/06 - Leper Messiah.flac
+687:Thrash Metal/Metallica/Master Of Puppets/07 - Orion.flac
+688:Thrash Metal/Metallica/Master Of Puppets/08 - Damage, Inc..flac
+689:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/01 - Wake Up Dead.flac
+690:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/02 - The Conjuring.flac
+691:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/03 - Peace Sells.flac
+692:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/04 - Devils Island.flac
+693:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/05 - Good Mourning - Black Friday.flac
+694:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/06 - Bad Omen.flac
+695:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/07 - I Ain't Superstitious.flac
+696:Thrash Metal/Megadeth/Peace Sells... But Who's Buying/08 - My Last Words.flac
+697:Thrash Metal/Slayer/Reign In Blood/01 - Angel Of Death.flac
+698:Thrash Metal/Slayer/Reign In Blood/02 - Piece By Piece.flac
+699:Thrash Metal/Slayer/Reign In Blood/03 - Necrophobic.flac
+700:Thrash Metal/Slayer/Reign In Blood/04 - Altar Of Sacrifice.flac
+701:Thrash Metal/Slayer/Reign In Blood/05 - Jesus Saves.flac
+702:Thrash Metal/Slayer/Reign In Blood/06 - Criminally Insane.flac
+703:Thrash Metal/Slayer/Reign In Blood/07 - Reborn.flac
+704:Thrash Metal/Slayer/Reign In Blood/08 - Epidemic.flac
+705:Thrash Metal/Slayer/Reign In Blood/09 - Postmortem.flac
+706:Thrash Metal/Slayer/Reign In Blood/10 - Raining Blood.flac
+707:Thrash Metal/Anthrax/Among the Living/01 - Among the Living.flac
+708:Thrash Metal/Anthrax/Among the Living/02 - Caught in a Mosh.flac
+709:Thrash Metal/Anthrax/Among the Living/03 - I Am the Law.flac
+710:Thrash Metal/Anthrax/Among the Living/04 - Efilnikufesin (N.F.L.).flac
+711:Thrash Metal/Anthrax/Among the Living/05 - A Skeleton in the Closet.flac
+712:Thrash Metal/Anthrax/Among the Living/06 - Indians.flac
+713:Thrash Metal/Anthrax/Among the Living/07 - One World.flac
+714:Thrash Metal/Anthrax/Among the Living/08 - A.D.I.   Horror of It All.flac
+715:Thrash Metal/Anthrax/Among the Living/09 - Imitation of Life.flac
+716:Thrash Metal/Testament/The Legacy/01 - Over The Wall.flac
+717:Thrash Metal/Testament/The Legacy/02 - The Haunting.flac
+718:Thrash Metal/Testament/The Legacy/03 - Burnt Offerings.flac
+719:Thrash Metal/Testament/The Legacy/04 - Raging Waters.flac
+720:Thrash Metal/Testament/The Legacy/05 - C.O.T.L.O.D..flac
+721:Thrash Metal/Testament/The Legacy/06 - First Strike Is Deadly.flac
+722:Thrash Metal/Testament/The Legacy/07 - Do Or Die.flac
+723:Thrash Metal/Testament/The Legacy/08 - Alone In The Dark.flac
+724:Thrash Metal/Testament/The Legacy/09 - Apocalyptic City.flac
+725:Unsorted/complete/1987 - The Ultra-Violence/01 Thrashers.flac
+726:Unsorted/complete/1987 - The Ultra-Violence/02 Evil Priest.flac
+727:Unsorted/complete/1987 - The Ultra-Violence/03 Voracious Souls.flac
+728:Unsorted/complete/1987 - The Ultra-Violence/04 Kill as One.flac
+729:Unsorted/complete/1987 - The Ultra-Violence/05 The Ultra-Violence.flac
+730:Unsorted/complete/1987 - The Ultra-Violence/06 Mistress of Pain.flac
+731:Unsorted/complete/1987 - The Ultra-Violence/07 Final Death.flac
+732:Unsorted/complete/1987 - The Ultra-Violence/08 I.P.F.S..flac
+733:Thrash Metal/Metallica/and Justice for All/01 - Blackened.flac
+734:Thrash Metal/Metallica/and Justice for All/02 - ...and Justice for All.flac
+735:Thrash Metal/Metallica/and Justice for All/03 - Eye of the Beholder.flac
+736:Thrash Metal/Metallica/and Justice for All/04 - One.flac
+737:Thrash Metal/Metallica/and Justice for All/05 - The Shortest Straw.flac
+738:Thrash Metal/Metallica/and Justice for All/06 - Harvester of Sorrow.flac
+739:Thrash Metal/Metallica/and Justice for All/07 - The Frayed Ends of Sanity.flac
+740:Thrash Metal/Metallica/and Justice for All/08 - To Live Is to Die.flac
+741:Thrash Metal/Metallica/and Justice for All/09 - Dyers Eve.flac
+742:Thrash Metal/Metallica/and Justice for All/10 - The Prince.flac
+743:Progressive Metal/Voivod/Dimension Hatröss/1-01 - Experiment.flac
+744:Progressive Metal/Voivod/Dimension Hatröss/1-02 - Tribal Convictions.flac
+745:Progressive Metal/Voivod/Dimension Hatröss/1-03 - Chaosmöngers.flac
+746:Progressive Metal/Voivod/Dimension Hatröss/1-04 - Technocratic Manipulators.flac
+747:Progressive Metal/Voivod/Dimension Hatröss/1-05 - Macrosolutions to Megaproblems.flac
+748:Progressive Metal/Voivod/Dimension Hatröss/1-06 - Brain Scan.flac
+749:Progressive Metal/Voivod/Dimension Hatröss/1-07 - Psychic Vacuum.flac
+750:Progressive Metal/Voivod/Dimension Hatröss/1-08 - Cosmic Drama.flac
+751:Progressive Metal/Voivod/Dimension Hatröss/1-09 - Batman.flac
+752:Thrash Metal/Testament/The New Order/01 - Eerie Inhabitants.flac
+753:Thrash Metal/Testament/The New Order/02 - The New Order.flac
+754:Thrash Metal/Testament/The New Order/03 - Trial By Fire.flac
+755:Thrash Metal/Testament/The New Order/04 - Into The Pit.flac
+756:Thrash Metal/Testament/The New Order/05 - Hypnosis.flac
+757:Thrash Metal/Testament/The New Order/06 - Disciples Of The Watch.flac
+758:Thrash Metal/Testament/The New Order/07 - The Preacher.flac
+759:Thrash Metal/Testament/The New Order/08 - Nobody's Fault.flac
+760:Thrash Metal/Testament/The New Order/09 - A Day Of Reckoning.flac
+761:Thrash Metal/Testament/The New Order/10 - Musical Death (A Dirge).flac
+762:Thrash Metal/Coroner/Punishment For Decadence/01 - Intro.flac
+763:Thrash Metal/Coroner/Punishment For Decadence/02 - Absorbed.flac
+764:Thrash Metal/Coroner/Punishment For Decadence/03 - Masked Jackal.flac
+765:Thrash Metal/Coroner/Punishment For Decadence/04 - Arc-Lite.flac
+766:Thrash Metal/Coroner/Punishment For Decadence/05 - Skeleton On Your Shoulder.flac
+767:Thrash Metal/Coroner/Punishment For Decadence/06 - Sudden Fall.flac
+768:Thrash Metal/Coroner/Punishment For Decadence/07 - Shadow Of A Lost Dream.flac
+769:Thrash Metal/Coroner/Punishment For Decadence/08 - The New Breed.flac
+770:Thrash Metal/Coroner/Punishment For Decadence/09 - Voyage To Eternity.flac
+771:Thrash Metal/Coroner/Punishment For Decadence/10 - Purple Haze.flac
+772:Thrash Metal/Annihilator/Alice In Hell/1-01 - Crystal Ann.FLAC
+773:Thrash Metal/Annihilator/Alice In Hell/1-02 - Alison Hell.FLAC
+774:Thrash Metal/Annihilator/Alice In Hell/1-03 - W. T. Y. D..FLAC
+775:Thrash Metal/Annihilator/Alice In Hell/1-04 - Wicked Mystic.FLAC
+776:Thrash Metal/Annihilator/Alice In Hell/1-05 - Burns Like A Buzzsaw Blade.FLAC
+777:Thrash Metal/Annihilator/Alice In Hell/1-06 - Word Salad.FLAC
+778:Thrash Metal/Annihilator/Alice In Hell/1-07 - Schizos (Are Never Alone) Parts I & II.FLAC
+779:Thrash Metal/Annihilator/Alice In Hell/1-08 - Ligeia.FLAC
+780:Thrash Metal/Annihilator/Alice In Hell/1-09 - Human Insecticide.FLAC
+781:Groove Metal/Sepultura/Beneath The Remains/01 - Beneath The Remains.flac
+782:Groove Metal/Sepultura/Beneath The Remains/02 - Inner Self.flac
+783:Groove Metal/Sepultura/Beneath The Remains/03 - Stronger Than Hate.flac
+784:Groove Metal/Sepultura/Beneath The Remains/04 - Mass Hypnosis.flac
+785:Groove Metal/Sepultura/Beneath The Remains/05 - Sarcastic Existence.flac
+786:Groove Metal/Sepultura/Beneath The Remains/06 - Slaves Of Pain.flac
+787:Groove Metal/Sepultura/Beneath The Remains/07 - Lobotomy.flac
+788:Groove Metal/Sepultura/Beneath The Remains/08 - Hungry.flac
+789:Groove Metal/Sepultura/Beneath The Remains/09 - Primitive Future.flac
+790:Groove Metal/Sepultura/Beneath The Remains/10 - A Hora E A Vez Do Cabelo Nascer.flac
+791:Thrash Metal/Exodus/Fabulous Disaster/01 - The Last Act Of Defiance.flac
+792:Thrash Metal/Exodus/Fabulous Disaster/02 - Fabulous Disaster.flac
+793:Thrash Metal/Exodus/Fabulous Disaster/03 - The Toxic Waltz.flac
+794:Thrash Metal/Exodus/Fabulous Disaster/04 - Low Rider.flac
+795:Thrash Metal/Exodus/Fabulous Disaster/05 - Cajun Hell.flac
+796:Thrash Metal/Exodus/Fabulous Disaster/06 - Like Father, Like Son.flac
+797:Thrash Metal/Exodus/Fabulous Disaster/07 - Corruption.flac
+798:Thrash Metal/Exodus/Fabulous Disaster/08 - Verbal Razors.flac
+799:Thrash Metal/Exodus/Fabulous Disaster/09 - Open Season.flac
+800:Thrash Metal/Exodus/Fabulous Disaster/10 - Overdose.flac
+801:Thrash Metal/Coroner/No More Color/01 - Die By My Hand.flac
+802:Thrash Metal/Coroner/No More Color/02 - No Need To Be Human.flac
+803:Thrash Metal/Coroner/No More Color/03 - Read My Scars.flac
+804:Thrash Metal/Coroner/No More Color/04 - D.O.A..flac
+805:Thrash Metal/Coroner/No More Color/05 - Mistress Of Deception.flac
+806:Thrash Metal/Coroner/No More Color/06 - Tunnel Of Pain.flac
+807:Thrash Metal/Coroner/No More Color/07 - Why It Hurts.flac
+808:Thrash Metal/Coroner/No More Color/08 - Last Entertainment.flac
+809:Progressive Metal/Voivod/Nothingface/01 - Intro.flac
+810:Progressive Metal/Voivod/Nothingface/02 - The Unknown Knows.flac
+811:Progressive Metal/Voivod/Nothingface/03 - Nothingface.flac
+812:Progressive Metal/Voivod/Nothingface/04 - Astronomy Domine.flac
+813:Progressive Metal/Voivod/Nothingface/05 - Missing Sequences.flac
+814:Progressive Metal/Voivod/Nothingface/06 - X-Ray Mirror.flac
+815:Progressive Metal/Voivod/Nothingface/07 - Inner Combustion.flac
+816:Progressive Metal/Voivod/Nothingface/08 - Pre-Ignition.flac
+817:Progressive Metal/Voivod/Nothingface/09 - Into My Hypercube.flac
+818:Progressive Metal/Voivod/Nothingface/10 - Sub-Effect.flac
+819:Thrash Metal/Overkill/The Years Of Decay/01 - Time To Kill.flac
+820:Thrash Metal/Overkill/The Years Of Decay/02 - Elimination.flac
+821:Thrash Metal/Overkill/The Years Of Decay/03 - I Hate.flac
+822:Thrash Metal/Overkill/The Years Of Decay/04 - Nothing To Die For.flac
+823:Thrash Metal/Overkill/The Years Of Decay/05 - Playing With Spiders Skullkrush.flac
+824:Thrash Metal/Overkill/The Years Of Decay/06 - Birth Of Tension.flac
+825:Thrash Metal/Overkill/The Years Of Decay/07 - Who Tends The Fire.flac
+826:Thrash Metal/Overkill/The Years Of Decay/08 - The Years Of Decay.flac
+827:Thrash Metal/Overkill/The Years Of Decay/09 - E.vil N.ever D.ies.flac
+828:Thrash Metal/Kreator/Coma Of Souls/01 - When The Sun Burns Red.flac
+829:Thrash Metal/Kreator/Coma Of Souls/02 - Coma Of Souls.flac
+830:Thrash Metal/Kreator/Coma Of Souls/03 - People Of The Lie.flac
+831:Thrash Metal/Kreator/Coma Of Souls/04 - World Beyond.flac
+832:Thrash Metal/Kreator/Coma Of Souls/05 - Terror Zone.flac
+833:Thrash Metal/Kreator/Coma Of Souls/06 - Agents Of Brutality.flac
+834:Thrash Metal/Kreator/Coma Of Souls/07 - Material World Paranoia.flac
+835:Thrash Metal/Kreator/Coma Of Souls/08 - Twisted Urges.flac
+836:Thrash Metal/Kreator/Coma Of Souls/09 - Hidden Dictator.flac
+837:Thrash Metal/Kreator/Coma Of Souls/10 - Mental Slavery.flac
+838:Groove Metal/Pantera/Cowboys From Hell/01 - Cowboys From Hell.flac
+839:Groove Metal/Pantera/Cowboys From Hell/02 - Primal Concrete Sledge.flac
+840:Groove Metal/Pantera/Cowboys From Hell/03 - Psycho Holiday.flac
+841:Groove Metal/Pantera/Cowboys From Hell/04 - Heresy.flac
+842:Groove Metal/Pantera/Cowboys From Hell/05 - Cemetery Gates.flac
+843:Groove Metal/Pantera/Cowboys From Hell/06 - Domination.flac
+844:Groove Metal/Pantera/Cowboys From Hell/07 - Shattered.flac
+845:Groove Metal/Pantera/Cowboys From Hell/08 - Clash With Reality.flac
+846:Groove Metal/Pantera/Cowboys From Hell/09 - Medicine Man.flac
+847:Groove Metal/Pantera/Cowboys From Hell/10 - Message in Blood.flac
+848:Groove Metal/Pantera/Cowboys From Hell/11 - The Sleep.flac
+849:Groove Metal/Pantera/Cowboys From Hell/12 - The Art of Shredding.flac
+850:Thrash Metal/Megadeth/Rust In Peace/01 - Holy Wars... The Punishment Due.flac
+851:Thrash Metal/Megadeth/Rust In Peace/02 - Hangar 18.flac
+852:Thrash Metal/Megadeth/Rust In Peace/03 - Take No Prisoners.flac
+853:Thrash Metal/Megadeth/Rust In Peace/04 - Five Magics.flac
+854:Thrash Metal/Megadeth/Rust In Peace/05 - Poison Was The Cure.flac
+855:Thrash Metal/Megadeth/Rust In Peace/06 - Lucretia.flac
+856:Thrash Metal/Megadeth/Rust In Peace/07 - Tornado Of Souls.flac
+857:Thrash Metal/Megadeth/Rust In Peace/08 - Dawn Patrol.flac
+858:Thrash Metal/Megadeth/Rust In Peace/09 - Rust In Peace... Polaris.flac
+859:Thrash Metal/Slayer/Seasons In The Abyss/01 - War Ensemble.flac
+860:Thrash Metal/Slayer/Seasons In The Abyss/02 - Blood Red.flac
+861:Thrash Metal/Slayer/Seasons In The Abyss/03 - Spirit In Black.flac
+862:Thrash Metal/Slayer/Seasons In The Abyss/04 - Expendable Youth.flac
+863:Thrash Metal/Slayer/Seasons In The Abyss/05 - Dead Skin Mask.flac
+864:Thrash Metal/Slayer/Seasons In The Abyss/06 - Hallowed Point.flac
+865:Thrash Metal/Slayer/Seasons In The Abyss/07 - Skeletons Of Society.flac
+866:Thrash Metal/Slayer/Seasons In The Abyss/08 - Temptation.flac
+867:Thrash Metal/Slayer/Seasons In The Abyss/09 - Born Of Fire.flac
+868:Thrash Metal/Slayer/Seasons In The Abyss/10 - Seasons In The Abyss.flac
+869:Thrash Metal/Anthrax/Spreading the Disease/01 - A.I.R..flac
+870:Thrash Metal/Anthrax/Spreading the Disease/02 - Lone Justice.flac
+871:Thrash Metal/Anthrax/Spreading the Disease/03 - Madhouse.flac
+872:Thrash Metal/Anthrax/Spreading the Disease/04 - S.S.C. Stand Or Fall.flac
+873:Thrash Metal/Anthrax/Spreading the Disease/05 - The Enemy.flac
+874:Thrash Metal/Anthrax/Spreading the Disease/06 - Aftershock.flac
+875:Thrash Metal/Anthrax/Spreading the Disease/07 - Armed And Dangerous.flac
+876:Thrash Metal/Anthrax/Spreading the Disease/08 - Medusa.flac
+877:Thrash Metal/Anthrax/Spreading the Disease/09 - Gung-Ho.flac
+878:Groove Metal/Sepultura/Arise/01 - Arise.flac
+879:Groove Metal/Sepultura/Arise/02 - Dead Embryonic Cells.flac
+880:Groove Metal/Sepultura/Arise/03 - Desperate Cry.flac
+881:Groove Metal/Sepultura/Arise/04 - Murder.flac
+882:Groove Metal/Sepultura/Arise/05 - Subtraction.flac
+883:Groove Metal/Sepultura/Arise/06 - Altered State.flac
+884:Groove Metal/Sepultura/Arise/07 - Under Siege.flac
+885:Groove Metal/Sepultura/Arise/08 - Meaningless Movements.flac
+886:Groove Metal/Sepultura/Arise/09 - Infected Voice.flac
+887:Thrash Metal/Overkill/Horrorscope/01 - Coma.flac
+888:Thrash Metal/Overkill/Horrorscope/02 - Infectious.flac
+889:Thrash Metal/Overkill/Horrorscope/03 - Blood Money.flac
+890:Thrash Metal/Overkill/Horrorscope/04 - Thanx For Nothin'.flac
+891:Thrash Metal/Overkill/Horrorscope/05 - Bare Bones.flac
+892:Thrash Metal/Overkill/Horrorscope/06 - Horrorscope.flac
+893:Thrash Metal/Overkill/Horrorscope/07 - New Machine.flac
+894:Thrash Metal/Overkill/Horrorscope/08 - Frankenstein.flac
+895:Thrash Metal/Overkill/Horrorscope/09 - Live Young, Die Free.flac
+896:Thrash Metal/Overkill/Horrorscope/10 - Nice Day...For A Funeral.flac
+897:Thrash Metal/Overkill/Horrorscope/11 - Soulitude.flac
+898:Thrash Metal/Coroner/Mental Vortex/01 - Divine Step (Conspectu Mortis).flac
+899:Thrash Metal/Coroner/Mental Vortex/02 - Son of Lilith.flac
+900:Thrash Metal/Coroner/Mental Vortex/03 - Semtex Revolution.flac
+901:Thrash Metal/Coroner/Mental Vortex/04 - Sirens.flac
+902:Thrash Metal/Coroner/Mental Vortex/05 - Metamorphosis.flac
+903:Thrash Metal/Coroner/Mental Vortex/06 - Pale Sister.flac
+904:Thrash Metal/Coroner/Mental Vortex/07 - About Life.flac
+905:Thrash Metal/Coroner/Mental Vortex/08 - I Want You (She's So Heavy).flac
+906:Thrash Metal/Megadeth/Countdown To Extinction/01 - Skin O'My Teeth.flac
+907:Thrash Metal/Megadeth/Countdown To Extinction/02 - Symphony Of Destruction.flac
+908:Thrash Metal/Megadeth/Countdown To Extinction/03 - Architecture Of Aggression.flac
+909:Thrash Metal/Megadeth/Countdown To Extinction/04 - Foreclosure Of A Dream.flac
+910:Thrash Metal/Megadeth/Countdown To Extinction/05 - Sweating Bullets.flac
+911:Thrash Metal/Megadeth/Countdown To Extinction/06 - This Was My Life.flac
+912:Thrash Metal/Megadeth/Countdown To Extinction/07 - Countdown To Extinction.flac
+913:Thrash Metal/Megadeth/Countdown To Extinction/08 - High Speed Dirt.flac
+914:Thrash Metal/Megadeth/Countdown To Extinction/09 - Psychotron.flac
+915:Thrash Metal/Megadeth/Countdown To Extinction/10 - Captive Honour.flac
+916:Thrash Metal/Megadeth/Countdown To Extinction/11 - Ashes In Your Mouth.flac
+917:Thrash Metal/Demolition Hammer/Epidemic of Violence/01 - Skull Fracturing Nightmare.flac
+918:Thrash Metal/Demolition Hammer/Epidemic of Violence/02 - Human Dissection.flac
+919:Thrash Metal/Demolition Hammer/Epidemic of Violence/03 - Pyroclastic Annihilation.flac
+920:Thrash Metal/Demolition Hammer/Epidemic of Violence/04 - Envenomed.flac
+921:Thrash Metal/Demolition Hammer/Epidemic of Violence/05 - Carnivorous Obsession.flac
+922:Thrash Metal/Demolition Hammer/Epidemic of Violence/06 - Orgy of Destruction.flac
+923:Thrash Metal/Demolition Hammer/Epidemic of Violence/07 - Epidemic of Violence.flac
+924:Thrash Metal/Demolition Hammer/Epidemic of Violence/08 - Omnivore.flac
+925:Thrash Metal/Demolition Hammer/Epidemic of Violence/09 - Aborticide.flac
+926:Groove Metal/Pantera/Vulgar Display Of Power/01 - Mouth For War.flac
+927:Groove Metal/Pantera/Vulgar Display Of Power/02 - A New Level.flac
+928:Groove Metal/Pantera/Vulgar Display Of Power/03 - Walk.flac
+929:Groove Metal/Pantera/Vulgar Display Of Power/04 - Fucking Hostile.flac
+930:Groove Metal/Pantera/Vulgar Display Of Power/05 - This Love.flac
+931:Groove Metal/Pantera/Vulgar Display Of Power/06 - Rise.flac
+932:Groove Metal/Pantera/Vulgar Display Of Power/07 - No Good (Attack The Radical).flac
+933:Groove Metal/Pantera/Vulgar Display Of Power/08 - Living In A Hole.flac
+934:Groove Metal/Pantera/Vulgar Display Of Power/09 - Regular People (Conceit).flac
+935:Groove Metal/Pantera/Vulgar Display Of Power/10 - By Demons Be Driven.flac
+936:Groove Metal/Pantera/Vulgar Display Of Power/11 - Hollow.flac
+937:Groove Metal/Pantera/Far Beyond Driven/01 - Strength Beyond Strength.flac
+938:Groove Metal/Pantera/Far Beyond Driven/02 - Becoming.flac
+939:Groove Metal/Pantera/Far Beyond Driven/03 - 5 Minutes Alone.flac
+940:Groove Metal/Pantera/Far Beyond Driven/04 - I'm Broken.flac
+941:Groove Metal/Pantera/Far Beyond Driven/05 - Good Friends And A Bottle Of Pills.flac
+942:Groove Metal/Pantera/Far Beyond Driven/06 - Hard Lines, Sunken Cheeks.flac
+943:Groove Metal/Pantera/Far Beyond Driven/07 - Slaughtered.flac
+944:Groove Metal/Pantera/Far Beyond Driven/08 - 25 Years.flac
+945:Groove Metal/Pantera/Far Beyond Driven/09 - Shedding Skin.flac
+946:Groove Metal/Pantera/Far Beyond Driven/10 - Use My Third Arm.flac
+947:Groove Metal/Pantera/Far Beyond Driven/11 - Throes Of Rejection.flac
+948:Groove Metal/Pantera/Far Beyond Driven/12 - Planet Caravan.flac
+949:Death Metal/Angelcorpse/The Inexorable/01 - Stormgods Unbound.flac
+950:Death Metal/Angelcorpse/The Inexorable/02 - Smoldering In Exile.flac
+951:Death Metal/Angelcorpse/The Inexorable/03 - Reaver.flac
+952:Death Metal/Angelcorpse/The Inexorable/05 - As Predator To Prey.flac
+953:Death Metal/Angelcorpse/The Inexorable/06 - Solar Wills.flac
+954:Death Metal/Angelcorpse/The Inexorable/07 - Begotten (Through Blood & Flame).flac
+955:Death Metal/Angelcorpse/The Inexorable/08 - The Fall Of The Idols Of Flesh.flac
+956:Death Metal/Angelcorpse/The Inexorable/09 - When Abyss Winds Return.flac
+957:Death Metal/Angelcorpse/The Inexorable/10 - Desecration Of A Virgin.flac
+958:Death Metal/Angelcorpse/The Inexorable/04 - Wolflust.flac
+959:Groove Metal/Lamb Of God/As The Palaces Burn/01 - Ruin.flac
+960:Groove Metal/Lamb Of God/As The Palaces Burn/02 - As The Palaces Burn.flac
+961:Groove Metal/Lamb Of God/As The Palaces Burn/03 - Purified.flac
+962:Groove Metal/Lamb Of God/As The Palaces Burn/04 - 11th Hour.flac
+963:Groove Metal/Lamb Of God/As The Palaces Burn/05 - For Your Malice.flac
+964:Groove Metal/Lamb Of God/As The Palaces Burn/06 - Boot Scraper.flac
+965:Groove Metal/Lamb Of God/As The Palaces Burn/07 - A Devil In God's Country.flac
+966:Groove Metal/Lamb Of God/As The Palaces Burn/08 - In Defense Of Our Good Name.flac
+967:Groove Metal/Lamb Of God/As The Palaces Burn/09 - Blood Junkie.flac
+968:Groove Metal/Lamb Of God/As The Palaces Burn/10 - Vigil.flac
+969:Groove Metal/Lamb Of God/Ashes Of The Wake/01 - Laid To Rest.flac
+970:Groove Metal/Lamb Of God/Ashes Of The Wake/02 - Hourglass.flac
+971:Groove Metal/Lamb Of God/Ashes Of The Wake/03 - Now You've Got Something To Die For.flac
+972:Groove Metal/Lamb Of God/Ashes Of The Wake/04 - The Faded Line.flac
+973:Groove Metal/Lamb Of God/Ashes Of The Wake/05 - Omerta.flac
+974:Groove Metal/Lamb Of God/Ashes Of The Wake/06 - Blood Of The Scribe.flac
+975:Groove Metal/Lamb Of God/Ashes Of The Wake/07 - One Gun.flac
+976:Groove Metal/Lamb Of God/Ashes Of The Wake/08 - Break You.flac
+977:Groove Metal/Lamb Of God/Ashes Of The Wake/09 - What I've Become.flac
+978:Groove Metal/Lamb Of God/Ashes Of The Wake/10 - Ashes Of The Wake.flac
+979:Groove Metal/Lamb Of God/Ashes Of The Wake/11 - Remorse Is For The Dead.flac
+980:Thrash Metal/Toxic Holocaust/An Overdose Of Death/01 - Wild Dogs.flac
+981:Thrash Metal/Toxic Holocaust/An Overdose Of Death/02 - Nuke The Cross.flac
+982:Thrash Metal/Toxic Holocaust/An Overdose Of Death/03 - Endless Armageddon.flac
+983:Thrash Metal/Toxic Holocaust/An Overdose Of Death/04 - Future Shock.flac
+984:Thrash Metal/Toxic Holocaust/An Overdose Of Death/05 - War Game.flac
+985:Thrash Metal/Toxic Holocaust/An Overdose Of Death/06 - In The Name Of Science.flac
+986:Thrash Metal/Toxic Holocaust/An Overdose Of Death/07 - March From Hell.flac
+987:Thrash Metal/Toxic Holocaust/An Overdose Of Death/08 - Gravelord.flac
+988:Thrash Metal/Toxic Holocaust/An Overdose Of Death/09 - War Is Hell.flac
+989:Thrash Metal/Toxic Holocaust/An Overdose Of Death/10 - The Lord Of the Wasteland.flac
+990:Thrash Metal/Toxic Holocaust/An Overdose Of Death/11 - Feedback, Blood And Distortion.flac
+991:Thrash Metal/Toxic Holocaust/An Overdose Of Death/12 - Death From Above.flac
+992:Thrash Metal/Toxic Holocaust/An Overdose Of Death/13 - City Of A Million Graves.flac
+993:Thrash Metal/Vektor/Black Future/01 - Black Future.flac
+994:Thrash Metal/Vektor/Black Future/02 - Oblivion.flac
+995:Thrash Metal/Vektor/Black Future/03 - Destroying the Cosmos.flac
+996:Thrash Metal/Vektor/Black Future/04 - Forests of Legend.flac
+997:Thrash Metal/Vektor/Black Future/05 - Hunger for Violence.flac
+998:Thrash Metal/Vektor/Black Future/06 - Deoxyribonucleic Acid.flac
+999:Thrash Metal/Vektor/Black Future/07 - Asteroid.flac
+1000:Thrash Metal/Vektor/Black Future/08 - Dark Nebula.flac
+1001:Thrash Metal/Vektor/Black Future/09 - Accelerating Universe.flac
+1002:Thrash Metal/Overkill/Ironbound/01 - The Green and Black.flac
+1003:Thrash Metal/Overkill/Ironbound/02 - Ironbound.flac
+1004:Thrash Metal/Overkill/Ironbound/03 - Bring Me the Night.flac
+1005:Thrash Metal/Overkill/Ironbound/04 - The Goal Is Your Soul.flac
+1006:Thrash Metal/Overkill/Ironbound/05 - Give a Little.flac
+1007:Thrash Metal/Overkill/Ironbound/06 - Endless War.flac
+1008:Thrash Metal/Overkill/Ironbound/07 - The Head and Heart.flac
+1009:Thrash Metal/Overkill/Ironbound/08 - In Vain.flac
+1010:Thrash Metal/Overkill/Ironbound/09 - Killing for a Living.flac
+1011:Thrash Metal/Overkill/Ironbound/10 - The SRC.flac
+1012:Thrash Metal/Toxic Holocaust/Conjure And Command/01 - Judgment Awaits You.flac
+1013:Thrash Metal/Toxic Holocaust/Conjure And Command/02 - Agony Of The Damned.flac
+1014:Thrash Metal/Toxic Holocaust/Conjure And Command/03 - Bitch.flac
+1015:Thrash Metal/Toxic Holocaust/Conjure And Command/04 - Red Winter.flac
+1016:Thrash Metal/Toxic Holocaust/Conjure And Command/05 - Nowhere To Run.flac
+1017:Thrash Metal/Toxic Holocaust/Conjure And Command/06 - I Am Disease.flac
+1018:Thrash Metal/Toxic Holocaust/Conjure And Command/07 - In The Depths (Of Your Mind).flac
+1019:Thrash Metal/Toxic Holocaust/Conjure And Command/08 - The Liars Are Burning.flac
+1020:Thrash Metal/Toxic Holocaust/Conjure And Command/09 - Revelations.flac
+1021:Thrash Metal/Toxic Holocaust/Conjure And Command/10 - Sound The Charge.flac
+1022:Thrash Metal/Vektor/Outer Isolation/1-01 - Cosmic Cortex.flac
+1023:Thrash Metal/Vektor/Outer Isolation/1-02 - Echoless Chamber.flac
+1024:Thrash Metal/Vektor/Outer Isolation/1-03 - Dying World.flac
+1025:Thrash Metal/Vektor/Outer Isolation/1-04 - Tetrastructural Minds.flac
+1026:Thrash Metal/Vektor/Outer Isolation/1-05 - Venus Project.flac
+1027:Thrash Metal/Vektor/Outer Isolation/1-06 - Dark Creations, Dead Creators.flac
+1028:Thrash Metal/Vektor/Outer Isolation/1-07 - Fast Paced Society.flac
+1029:Thrash Metal/Vektor/Outer Isolation/1-08 - Outer Isolation.flac
+1030:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/01 - Awaken the Serpent.flac
+1031:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/02 - Silence.flac
+1032:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/03 - Rat Eater.flac
+1033:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/04 - Salvation Is Waiting.flac
+1034:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/05 - Out of the Fire.flac
+1035:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/06 - Acid Fuzz.flac
+1036:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/07 - Deny the Truth.flac
+1037:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/08 - Mkultra.flac
+1038:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/09 - I Serve....flac
+1039:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/10 - International Conspiracy.flac
+1040:Thrash Metal/Toxic Holocaust/Chemistry of Consciousness/11 - Chemistry of Consciousness.flac
+1041:Thrash Metal/Power Trip/Manifest Decimation/01 - Manifest Decimation.flac
+1042:Thrash Metal/Power Trip/Manifest Decimation/02 - Heretic's Fork.flac
+1043:Thrash Metal/Power Trip/Manifest Decimation/03 - Conditioned to Death.flac
+1044:Thrash Metal/Power Trip/Manifest Decimation/04 - Murderer's Row.flac
+1045:Thrash Metal/Power Trip/Manifest Decimation/05 - Crossbreaker.flac
+1046:Thrash Metal/Power Trip/Manifest Decimation/06 - Drown.flac
+1047:Thrash Metal/Power Trip/Manifest Decimation/07 - Power Trip.flac
+1048:Thrash Metal/Power Trip/Manifest Decimation/08 - The Hammer of Doubt.flac
+1049:Thrash Metal/Exmortus/Slave to the Sword/01 - Rising.flac
+1050:Thrash Metal/Exmortus/Slave to the Sword/02 - Slave to the Sword.flac
+1051:Thrash Metal/Exmortus/Slave to the Sword/03 - Immortality Made Flesh.flac
+1052:Thrash Metal/Exmortus/Slave to the Sword/04 - Foe Hammer.flac
+1053:Thrash Metal/Exmortus/Slave to the Sword/05 - Warrior of the Night.flac
+1054:Thrash Metal/Exmortus/Slave to the Sword/06 - Ancient Violence.flac
+1055:Thrash Metal/Exmortus/Slave to the Sword/07 - From the Abyss.flac
+1056:Thrash Metal/Exmortus/Slave to the Sword/08 - Moonlight Sonata (Act 3).flac
+1057:Thrash Metal/Exmortus/Slave to the Sword/09 - Battle-Born.flac
+1058:Thrash Metal/Exmortus/Slave to the Sword/10 - Metal Is King.flac
+1059:Thrash Metal/Vektor/Terminal Redux/1-01 - Charging the Void.flac
+1060:Thrash Metal/Vektor/Terminal Redux/1-02 - Cygnus Terminal.flac
+1061:Thrash Metal/Vektor/Terminal Redux/1-03 - LCD (Liquid Crystal Disease).flac
+1062:Thrash Metal/Vektor/Terminal Redux/1-04 - Mountains Above the Sun.flac
+1063:Thrash Metal/Vektor/Terminal Redux/1-05 - Ultimate Artificer.flac
+1064:Thrash Metal/Vektor/Terminal Redux/1-06 - Pteropticon.flac
+1065:Thrash Metal/Vektor/Terminal Redux/1-07 - Psychotropia.flac
+1066:Thrash Metal/Vektor/Terminal Redux/1-08 - Pillars of Sand.flac
+1067:Thrash Metal/Vektor/Terminal Redux/1-09 - Collapse.flac
+1068:Thrash Metal/Vektor/Terminal Redux/1-10 - Recharging the Void.flac
+1069:Thrash Metal/Power Trip/Nightmare Logic/1-01 - Soul Sacrifice.flac
+1070:Thrash Metal/Power Trip/Nightmare Logic/1-02 - Executioner's Tax (Swing of the Axe).flac
+1071:Thrash Metal/Power Trip/Nightmare Logic/1-03 - Firing Squad.flac
+1072:Thrash Metal/Power Trip/Nightmare Logic/1-04 - Nightmare Logic.flac
+1073:Thrash Metal/Power Trip/Nightmare Logic/1-05 - Waiting Around to Die.flac
+1074:Thrash Metal/Power Trip/Nightmare Logic/1-06 - Ruination.flac
+1075:Thrash Metal/Power Trip/Nightmare Logic/1-07 - If Not Us Then Who.flac
+1076:Thrash Metal/Power Trip/Nightmare Logic/1-08 - Crucifixation.flac
+1077:Thrash Metal/Critical Defiance/Misconception/1-01 - Desert Ways.flac
+1078:Thrash Metal/Critical Defiance/Misconception/1-02 - Spiral Of Hatred.flac
+1079:Thrash Metal/Critical Defiance/Misconception/1-03 - Punished Existence.flac
+1080:Thrash Metal/Critical Defiance/Misconception/1-04 - 507.flac
+1081:Thrash Metal/Critical Defiance/Misconception/1-05 - What About You.flac
+1082:Thrash Metal/Critical Defiance/Misconception/1-06 - Onset.flac
+1083:Thrash Metal/Critical Defiance/Misconception/1-07 - Pursuit Of Chaos.flac
+1084:Thrash Metal/Critical Defiance/Misconception/1-08 - Misconception.flac
+playlist_end

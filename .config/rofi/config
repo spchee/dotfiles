@@ -1,0 +1,4 @@
+rofi.theme: /home/spchee/.config/rofi/themes/custom.rasi
+rofi.show-icons: true
+rofi.icon-theme: Papirus
+rofi.terminal: "konsole"
